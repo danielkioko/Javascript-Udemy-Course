@@ -56,5 +56,11 @@ while (k < tips.length) {
 var voila = billSum + tipSum;
 console.log(voila); // The total is 471, somehow it doesn't have decimals :-)
 
+// In another scenario, I've used case & fucntion to..
+//..solve for each bill.
+// That's like calling a function: calcTotal(124) and I get total + tip
+
+//This is the link to the code: 
+
 
 
