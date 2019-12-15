@@ -26,7 +26,6 @@ console.log(calcTip(124))
 
 //CASE FUNCTION
 //Not sure why, but it's not working :(
-
 function calcTotal(amount) {
 
     var total = 0;
@@ -54,4 +53,4 @@ function calcTotal(amount) {
 
 }
 
-console.log(calcTotal(10));
+console.log(calcTotal(124));
