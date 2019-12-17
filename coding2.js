@@ -30,7 +30,7 @@ function calcTotal(amount) {
 
     var total = 0;
 
-    switch(total) {
+    switch(amount) {
         
         case amount < 50:
             total = (0.2 * amount) + amount;  
