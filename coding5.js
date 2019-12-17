@@ -36,6 +36,7 @@ for (i = 0; i < totalCosts.bills.length; i++) {
 console.log(totalCosts.tips);
 console.log(totalCosts.finalBill);
 
+// Doing the same for Mark's
 var marksTotals = {
     "bills": [77, 375, 110, 45],
     "tips": [],
@@ -70,6 +71,10 @@ for (j = 0; j < marksTotals.bills.length; j++) {
 
 console.log(marksTotals.tips);
 console.log(marksTotals.totals);
+
+//This will then calculate the average tip for every family....
+//...and return the family that paid a higher average of tips....
+// or both if the average was equal
 
 function calculateAvgTip(){
 
