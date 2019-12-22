@@ -2,7 +2,7 @@
 //Coding Challenge 5
 
 var totalCosts = {
-    "bills": [124, 248, 268, 180, 42],
+    "bills": [124, 48, 268, 180, 42],
     "tips": [], // Array for tips
     "finalBill": [] //Array for totals
 }
@@ -41,6 +41,7 @@ var marksTotals = {
     "bills": [77, 375, 110, 45],
     "tips": [],
     "totals": []
+
 }
 
 var j;
